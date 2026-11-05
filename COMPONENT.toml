@@ -1,0 +1,9 @@
+[component]
+name = "SigmaOS-linux-kali"
+description = "Kali Linux security auditing and penetration testing bridge"
+version = "0.1.0"
+tier = 2
+
+[capabilities]
+contract_version = "1.0.0"
+principles = ["DRY", "KISS", "SOLID", "Arrange-Act-Assert", "Pristine-Sources", "Minimal-Kernel"]
