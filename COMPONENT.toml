@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-linux-kali"
-description = "Kali Linux security auditing and penetration testing bridge"
+description = "SigmaOS component: SigmaOS-linux-kali"
 version = "0.1.0"
 tier = 2
 
